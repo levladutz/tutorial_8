@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1_Rewriting_with_Lambdas/1_Rewriting_with_Lambdas.iml" filepath="$PROJECT_DIR$/1_Rewriting_with_Lambdas/1_Rewriting_with_Lambdas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2_Streams/2_Streams.iml" filepath="$PROJECT_DIR$/2_Streams/2_Streams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3_Optionals/3_Optionals.iml" filepath="$PROJECT_DIR$/3_Optionals/3_Optionals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tutorial_8.iml" filepath="$PROJECT_DIR$/tutorial_8.iml" />
+    </modules>
+  </component>
+</project>
